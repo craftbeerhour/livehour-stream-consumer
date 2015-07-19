@@ -1,0 +1,19 @@
+{
+  "name": "livehour-stream-consumer",
+  "version": "1.0.0",
+  "description": "livehour twitter kinesis consumer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craftbeerhour/livehour-stream-consumer.git"
+  },
+  "author": "tomwilderspin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craftbeerhour/livehour-stream-consumer/issues"
+  },
+  "homepage": "https://github.com/craftbeerhour/livehour-stream-consumer"
+}
